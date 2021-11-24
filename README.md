@@ -8,7 +8,7 @@ Docker image for [tatamirror-bot](https://github.com/tatasurarta/)
 
 ## How to use?
 ```
-docker pull breakdowns/mega-sdk-python:latest
+docker pull tatasurarta/tatamirrorbot-docker:latest
 ```
 
 ## Credits
