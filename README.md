@@ -1,5 +1,5 @@
 # Docker
-Docker image for [slam-mirrorbot](https://github.com/breakdowns/slam-mirrorbot)
+Docker image for [tatamirror-bot](https://github.com/tatasurarta/)
 
 ## Status
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/breakdowns/Docker/MirrorBot%20Docker/master?style=for-the-badge&label=Docker%20Build&logo=docker)
